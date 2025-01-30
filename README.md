@@ -3,6 +3,8 @@
 Yuvraj is a popular ethnic wear brand in India, known for its exquisite collection of traditional men's clothing such as sherwanis, kurtas, and suits. 
 
 <p><img src="https://manyavar-clone-nine.vercel.app/static/media/Screenshot 2025-01-31 005833.png" width='400' /> </p>
+<p><img src="../../Assets/Screenshot_2025-01-31_005833-removebg-preview.png" width='400' /> </p>
+
 
 
 <h2>Tech Stacks</h2>
